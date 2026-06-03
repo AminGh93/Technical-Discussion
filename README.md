@@ -14,4 +14,4 @@ This is a good example of [my code](https://gist.github.com/AminGh93/5e25b947cf5
 
 ### Image
 
-https://github.com/AminGh93/Technical-Discussion/issues/1#issue-4578544486
+![Image 1](https://github.com/AminGh93/Technical-Discussion/issues/1#issue-4578544486)
